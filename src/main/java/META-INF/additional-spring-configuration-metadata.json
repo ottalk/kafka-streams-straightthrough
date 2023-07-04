@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "straightthrough.inputTopicName",
+    "type": "java.lang.String",
+    "description": "A description for 'straightthrough.inputTopicName'"
+  },
+  {
+    "name": "straightthrough.outputTopicName",
+    "type": "java.lang.String",
+    "description": "A description for 'straightthrough.outputTopicName'"
+  }
+]}
